@@ -1,5 +1,5 @@
 # HeatMapCOVID-19-Effective-Reproductive-Number-DIY
-visualisasi Effective Reproductive Number di area ringroad DIY dengan parameter suhu dan kelembaban data dari API
+Projek ini adalah respond saya atas minimnya informasi fundamental dan instrumen yang dapat digunakan sebagai monitor atas wabah nCOVID19 yang tersedia. Inti dari proyek ini adalah menyajikan visualisasi data Effective Reproductive Number di beberapa area di pulau jawa metode perhitungan yang dipublikasikan dalam papers [High Temperature and High Humidity Reduce the Transmission of COVID-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3551767) yang diterbitkan oleh Social Science Research Network dengan parameter suhu dan kelembaban yang datanya  diambil dari API Pengamatan Cuaca
 
 ### Data visualizations
 #### V2 Visualiassi Pulau jawa
