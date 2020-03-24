@@ -25,5 +25,5 @@ pip install requests
 Ikuti langkah instalasi [ini](https://mosquitto.org/blog/2013/12/paho-mqtt-python-client/)
 * Dapat digunakan cloud broker atau [local broker](http://www.steves-internet-guide.com/install-mosquitto-broker/)
 ### Dependnsi
-* Local directori penyimpanan gambar peta background di node-red. 
+* Local directori berisi file PNG untuk penyimpanan gambar peta background di node-red, di spesify di node  _file in_. 
 <img src=https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/dataPULL.jpg width="320">
