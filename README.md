@@ -12,17 +12,17 @@ Menggunakan 768 data point yang didapatkan dengan memanggil [API openWeaterMap](
 ### Flow realtime Node-red
 <img src=https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/flow_heatmap.jpg width="720">
 
-### Setup dan Dependensi
-#### Install Node-red
-ikuti langkah-langkah di [laman resmi Node-Red](https://nodered.org/docs/getting-started/windows)
-
-### Data Ingest dan Interkoneksi Program
-#### insatll linrary request di python (diuji di python 3) untuk get http API
+## Setup dan Dependensi
+### Setup
+* Install Node-red : ikuti langkah-langkah di [laman resmi Node-Red](https://nodered.org/docs/getting-started/windows)
+  * install [node UI HeatMap](https://flows.nodered.org/node/node-red-contrib-ui-heatmap)
+* Data Ingest dan Interkoneksi Program : insatll linrary request di python (diuji di python 3) untuk get http API
 ```
 pip install requests
 ```
-#### install Paho MQTT library
+* install Paho MQTT library :
 Ikuti langkah instalasi [ini](https://mosquitto.org/blog/2013/12/paho-mqtt-python-client/)
-Dapat digunakan cloud broker atau [local broker](http://www.steves-internet-guide.com/install-mosquitto-broker/)
-
+* Dapat digunakan cloud broker atau [local broker](http://www.steves-internet-guide.com/install-mosquitto-broker/)
+### Dependnsi
+* Local directori penyimpanan gambar peta background di node-red. 
 <img src=https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/dataPULL.jpg width="320">
