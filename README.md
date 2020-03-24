@@ -16,6 +16,7 @@ Menggunakan 768 data point yang didapatkan dengan memanggil [API openWeaterMap](
 ### Setup
 * Install Node-red : ikuti langkah-langkah di [laman resmi Node-Red](https://nodered.org/docs/getting-started/windows)
   * install [node UI HeatMap](https://flows.nodered.org/node/node-red-contrib-ui-heatmap)
+  * import flow dari salah satu [file json](https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/tree/master/Node-red%20HeatMap%20Visualizer) dengan copas
 * Data Ingest dan Interkoneksi Program : insatll linrary request di python (diuji di python 3) untuk get http API
 ```
 pip install requests
