@@ -3,7 +3,7 @@ import paho.mqtt.publish as publish
 
 def check():
 	try:
-		urls = 'http://api.openweathermap.org/data/2.5/weather?lat=-7.772794&lon=110.379784&appid=14cfbf5f05c879dc3478b63cf49327ae&units=metric'
+		urls = 'http://api.openweathermap.org/data/2.5/weather?lat=-7.772794&lon=110.379784&appid=!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!&units=metric'
 		n=0
 		array={}
 		#geoCoordinatGenerator
@@ -14,7 +14,7 @@ def check():
 			#for x in range(2):
 				lon = (x/100)+110.32
 				#print("%.2f, %.2f"%(lat,lon))
-				r = requests.get('http://api.openweathermap.org/data/2.5/weather?lat=%.2f&lon=%.2f&appid=14cfbf5f05c879dc3478b63cf49327ae&units=metric'%(lat,lon))
+				r = requests.get('http://api.openweathermap.org/data/2.5/weather?lat=%.2f&lon=%.2f&appid=!!!!!!!!!!!!!!!!!!!!!!!&units=metric'%(lat,lon))
 				data = r.json()
 				temp=data["main"]["temp"]
 				humid=data["main"]["humidity"]
