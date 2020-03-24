@@ -2,7 +2,7 @@
 visualisasi Effective Reproductive Number di area ringroad DIY dengan parameter suhu dan kelembaban data dari API
 
 ### Data visualizations
-####V2 Visualiassi Pulau jawa
+#### V2 Visualiassi Pulau jawa
 768 data point dipanggil dan ditampilkan dalam heatmap
 <img src= https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/heatMapJawa.jpg>
 
