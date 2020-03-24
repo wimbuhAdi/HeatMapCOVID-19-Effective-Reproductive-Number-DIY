@@ -20,6 +20,7 @@ Menggunakan 768 data point yang didapatkan dengan memanggil [API openWeaterMap](
 ```
 pip install requests
 ```
+  * lalu daftar [akun OpenWeaterAPI](https://openweathermap.org/) untuk mendapat token guna mengakses data cuaca
 * install Paho MQTT library :
 Ikuti langkah instalasi [ini](https://mosquitto.org/blog/2013/12/paho-mqtt-python-client/)
 * Dapat digunakan cloud broker atau [local broker](http://www.steves-internet-guide.com/install-mosquitto-broker/)
