@@ -1,4 +1,7 @@
 ##### Penggunaan ulang harus dengan izin dan refrensi ke Pemilik Code
+# https://zoomadmin.com/HowToInstall/UbuntuPackage/python-tweepy
+
+
 # HeatMap Effective Reproductive Number COVID-19
 Terimakasih kepada Bu Unan atas rekomendasi [paper ini](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3551767). Projek ini adalah respond saya atas minimnya informasi fundamental yang tersedia dan guna untuk memperkaya instrumen yang dapat digunakan sebagai pertimbangan atas transmisi wabah virus COVID19. Goal dari proyek ini adalah penyajian visualisasi nilai Effective Reproductive Number (R) di pulau Jawa menggunakan metode perhitungan nilai R yang dipublikasikan dalam papers [High Temperature and High Humidity Reduce the Transmission of COVID-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3551767) yang diterbitkan oleh Social Science Research Network dengan parameter suhu dan kelembaban yang datanya diambil dari API Pengamatan Cuaca. Harap priksa kembali validasi dari data yang didapatkan, karena proyek ini masih pada tahap pengembangan.
 
