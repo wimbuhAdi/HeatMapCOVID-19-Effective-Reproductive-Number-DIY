@@ -13,7 +13,7 @@ Menggunakan 768 data point yang didapatkan dengan memanggil [API openWeaterMap](
 
 ### Live tweet Kalkulasi R number
 <p align="center">
-  <img src="https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/TweetBot_R-Covid/Tweet.PNG" alt="Size Limit CLI" width="738">
+  <img src="https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/TweetBot_R-Covid/Tweet.PNG" alt="Size Limit CLI" width="400">
 </p>
 
 ### Versi 1 visualisasi R number Ringroad
