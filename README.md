@@ -6,7 +6,10 @@ Terimakasih kepada Bu Unan atas rekomendasi [paper ini](https://papers.ssrn.com/
 ## Visualisasi Data
 ### Versi 2 Visualisasi R number Pulau jawa
 Menggunakan 768 data point yang didapatkan dengan memanggil [API openWeaterMap](https://openweathermap.org/current) dan menampilkan nilai R yang telah dikalkulasi ke dalam heatmap
-<img src= https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/heatMapJawa.jpg>
+
+<p align="center">
+  <img src="https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/heatMapJawa.jpg" alt="Size Limit CLI" width="738">
+</p>
 
 ## Live tweet Kalkulasi R number
 <img src=https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/TweetBot_R-Covid/Tweet.PNG>
