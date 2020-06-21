@@ -22,13 +22,10 @@ Menggunakan python script untuk request weather data dan kalkulasi R-number, kem
 ### Versi 1 visualisasi R number Ringroad
 <p align="center">
   <img src="https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/ringRoadheatMap.jpg" alt="Size Limit CLI" width="400">
-  <img src="https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/With%20Background%20Ring%20Road%20heatMap.jpg" alt="Size Limit CLI" width="400">
+  <img src="https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/With%20Background%20Ring%20Road%20heatMap.jpg" alt="Size Limit CLI" width="390">
 </p>
 
 ### Flow realtime Node-red
-<img src= width="720">
-
-
 <p align="center">
   <img src="https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/flow_heatmap.jpg" alt="Size Limit CLI" width="750">
 </p>
@@ -50,4 +47,4 @@ Ikuti langkah instalasi [ini](https://mosquitto.org/blog/2013/12/paho-mqtt-pytho
 ### Dependnsi
 * Local directori berisi file PNG untuk penyimpanan gambar peta background di node-red, di spesify di node **file in**. 
 <img src=https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/dataPULL.jpg width="320">
-* [Library Tweepy](https://zoomadmin.com/HowToInstall/UbuntuPackage/python-tweepy)
+* Library [Tweepy](https://zoomadmin.com/HowToInstall/UbuntuPackage/python-tweepy)
