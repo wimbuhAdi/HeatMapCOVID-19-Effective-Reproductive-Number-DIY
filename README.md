@@ -12,8 +12,9 @@ Menggunakan 768 data point yang didapatkan dengan memanggil [API openWeaterMap](
 </p>
 
 ### Live tweet Kalkulasi R number
+Menggunakan python script untuk request weather data dan kalkulasi R-number, kemudian menggunakan library [tweepy](https://www.tweepy.org/) untuk handling [tweeter API](https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update)
 <p align="center">
-  <img src="https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/TweetBot_R-Covid/Tweet.PNG" alt="Size Limit CLI" width="400">
+  <img src="https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/TweetBot_R-Covid/Tweet.PNG" alt="Size Limit CLI" width="550">
 </p>
 
 ### Versi 1 visualisasi R number Ringroad
