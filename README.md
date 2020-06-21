@@ -47,4 +47,4 @@ Ikuti langkah instalasi [ini](https://mosquitto.org/blog/2013/12/paho-mqtt-pytho
 ### Dependnsi
 * Local directori berisi file PNG untuk penyimpanan gambar peta background di node-red, di spesify di node **file in**. 
 <img src=https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/dataPULL.jpg width="320">
-* Library [Tweepy](https://zoomadmin.com/HowToInstall/UbuntuPackage/python-tweepy)
+* Install Library [Tweepy](https://zoomadmin.com/HowToInstall/UbuntuPackage/python-tweepy)
