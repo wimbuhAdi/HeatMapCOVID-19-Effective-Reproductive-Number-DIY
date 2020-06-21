@@ -3,6 +3,8 @@
 # HeatMap Effective Reproductive Number COVID-19
 Terimakasih kepada Bu Unan atas rekomendasi [paper ini](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3551767). Projek ini adalah respond saya atas minimnya informasi fundamental yang tersedia dan guna untuk memperkaya instrumen yang dapat digunakan sebagai pertimbangan atas transmisi wabah virus COVID19. Goal dari proyek ini adalah penyajian visualisasi nilai Effective Reproductive Number (R) di pulau Jawa menggunakan metode perhitungan nilai R yang dipublikasikan dalam papers [High Temperature and High Humidity Reduce the Transmission of COVID-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3551767) yang diterbitkan oleh Social Science Research Network dengan parameter suhu dan kelembaban yang datanya diambil dari API Pengamatan Cuaca. Harap priksa kembali validasi dari data yang didapatkan, karena proyek ini masih pada tahap pengembangan.
 
+
+
 ## Visualisasi Data
 ### Versi 2 Visualisasi R number Pulau jawa
 Menggunakan 768 data point yang didapatkan dengan memanggil [API openWeaterMap](https://openweathermap.org/current) dan menampilkan nilai R yang telah dikalkulasi ke dalam heatmap
@@ -11,13 +13,21 @@ Menggunakan 768 data point yang didapatkan dengan memanggil [API openWeaterMap](
   <img src="https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/heatMapJawa.jpg" alt="Size Limit CLI" width="738">
 </p>
 
+
+
 ### Live tweet Kalkulasi R number
 Menggunakan python script untuk request weather data dan kalkulasi R-number, kemudian menggunakan library [tweepy](https://www.tweepy.org/) untuk handling [tweeter API](https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update)
 <p align="center">
   <img src="https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/TweetBot_R-Covid/Tweet.PNG" alt="Size Limit CLI" width="550">
 </p>
 
+
 ### Versi 1 visualisasi R number Ringroad
+<p align="center">
+  <img src="https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/ringRoadheatMap.jpg" alt="Size Limit CLI" width="400">
+  <img src="https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/With%20Background%20Ring%20Road%20heatMap.jpg" alt="Size Limit CLI" width="400">
+</p>
+
 <img src= https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/ringRoadheatMap.jpg width="320">   <img src= https://github.com/wimbuhAdi/HeatMapCOVID-19-Effective-Reproductive-Number-DIY/blob/master/Node-red%20HeatMap%20Visualizer/With%20Background%20Ring%20Road%20heatMap.jpg width="320">
 
 ### Flow realtime Node-red
